@@ -1,2 +1,2 @@
-# Synchronization-with-Dynamic-Time-Warping
+# Actions-Synchronization-with-Dynamic-Time-Warping
 Sports Videos Synchronization using DTW
